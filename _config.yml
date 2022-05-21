@@ -1,19 +1,19 @@
-repository: BYR-Navi/BYR-Navi
-repository_url: https://github.com/BYR-Navi/BYR-Navi
+repository: boxin6/boxin6.github.io
+repository_url: https://https://github.com/boxin6/boxin6.github.io
 
 timezone: Asia/Shanghai
 lang: zh_CN
 
-title: 西邮人导航 · BYR-Navi
-alias_en: BYR-Navi
+title: 西邮人导航 · Box
+alias_en: Box-find
 alias_cn: 西邮人导航
-description: A Navigation Website for BYR
+description: A Navigation Website for test
 keywords: 西邮人导航, BYR-Navi, BYR, BUPT, Navi, Navigation
 url: https://boxin6.github.io/
 established_at: "2016-10-01T00:00+08:00"
 
-author: iROCKBUNNY
-author_url: https://irockbunny.com
+author: Box
+author_url: boxin6@yeah.net
 organization: TEELAB
 organization_url: https://teelab.net
 contact: contact[at]irockbunny[dot]com
