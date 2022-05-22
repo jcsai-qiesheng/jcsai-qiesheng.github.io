@@ -13,7 +13,7 @@
   url: /analytics/
   active_key: analytics
 
-  #- name: 捐赠
-  #icon: donate
-  #url: /donate/
-  #active_key: donate
+- name: Music
+  icon: music
+  url: https://music.163.com/playlist?id=439180405&userid=315898943
+  active_key: music
