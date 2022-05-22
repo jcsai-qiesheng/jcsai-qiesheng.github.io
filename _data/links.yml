@@ -1,63 +1,61 @@
 - categories:
-  - name: 购物
+  - name: 新闻
     links:
-    - name: 淘宝
+    - name: 人民网
       style: orange
-      url: https://www.taobao.com/
+      url: http://www.people.com.cn/
 
-    - name: 天猫
+    - name: 澎湃
       style: red
-      url: https://www.tmall.com/
+      url: https://www.thepaper.cn/
 
-    - name: 京东
+    - name: 环球网
       style: basic
-      url: https://www.jd.com/
+      url: https://www.huanqiu.com/
 
-    - name: Amazon
-      icon: amazon yellow
+    - name: 新华网
       style: basic
-      url: https://www.amazon.cn/
+      url: http://www.xinhuanet.com/
 
-    - name: Apple
+    - name: 凤凰网评论
       style: basic
-      icon: apple grey
-      url: https://www.apple.com/
+      url: https://pl.ifeng.com/
 
-    - name: 当当
+    - name: 华商报
       style: pink
-      url: http://www.dangdang.com/
+      url: http://hsb.hspress.net/
 
-    - name: 严选
+    - name: 凤凰资讯
       style: basic
-      url: http://you.163.com/
+      url: https://news.ifeng.com/
 
-    - name: UNIQLO
+    - name: 共产党员网
       style: red
-      url: http://www.uniqlo.cn/
+      url: https://www.12371.cn/
 
-    - name: MUJI
+    - name: 人民日报
       style: basic
-      url: http://www.muji.com.cn/
+      url: http://paper.people.com.cn/rmrb/html/2022-05/22/nbs.D110000renmrb_01.htm
 
-    - name: IKEA
+    - name: 南方周末
       style: yellow
-      url: https://www.ikea.cn/
+      url: http://www.infzm.com/
 
-    - name: Decathlon
+    - name: 法制网
       style: blue
-      url: https://www.decathlon.com.cn/
+      url: http://www.legaldaily.com.cn/
 
-    - name: 大疆
+    - name: 网易新闻
       style: black
-      url: https://www.dji.com/
+      url: https://news.163.com/
 
-    - name: 小米
+    - name: 三联生活周刊
       style: orange
-      url: https://www.mi.com/
+      url: http://www.lifeweek.com.cn/
 
-    - name: 有品
+    - name: 扬子晚报
       style: brown
-      url: https://xiaomiyoupin.com/
+      url: https://www.yangtse.com/
 
   - name: 工具
     links:
