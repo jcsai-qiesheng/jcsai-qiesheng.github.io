@@ -321,7 +321,7 @@
     links:
     - name: 西邮官网
       style: basic
-      url: https://www.xiyou.edu.cn/
+      url: http://www.xiyou.edu.cn
 
     - name: 本科教务系统
       style: basic
