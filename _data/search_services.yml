@@ -4,7 +4,6 @@
   shortcut:
     icon: paw blue inverted
     style: black
-    url: https://www.baidu.com/
     show: true
 
 - id: google
