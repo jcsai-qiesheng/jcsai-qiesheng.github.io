@@ -38,7 +38,7 @@ Before you start, you should have some basic understanding of the following:
 gem install jekyll bundler
 ```
 
-3. Clone the project from GitHub.676666
+3. Clone the project from GitHub.
 
 ```sh
 git clone https://github.com/BYR-Navi/BYR-Navi.git
