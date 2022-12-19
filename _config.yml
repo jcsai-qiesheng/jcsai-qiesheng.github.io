@@ -1,5 +1,5 @@
-repository: boxin6/boxin6.github.io
-repository_url: https://github.com/boxin6/boxin6.github.io
+repository: jcsai-qiesheng/jcsai-qiesheng.github.io
+repository_url: https://github.com/jcsai-qiesheng/jcsai-qiesheng.github.io
 
 timezone: Asia/Shanghai
 lang: zh_CN
@@ -12,7 +12,7 @@ keywords: only导航, Box, Yub, XUPT, Navi, Navigation
 url: https://boxin6.github.io/
 established_at: "2016-10-01T00:00+08:00"
 
-author: Box
+author: Qiesheng
 author_url: boxin6@yeah.net
 organization: TEELAB
 organization_url: https://teelab.net
