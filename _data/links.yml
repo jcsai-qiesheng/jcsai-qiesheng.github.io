@@ -1,5 +1,5 @@
 - categories:
-  - name: 新闻
+  - name: · News
     links:
     - name: 人民网
       style: orange
@@ -57,7 +57,7 @@
       style: brown
       url: https://www.yangtse.com/
 
-  - name: 工具
+  - name: · Tools
     links:
     - name: '12306'
       icon: train red
@@ -126,7 +126,7 @@
     #   style: basic
     #   url: https://macwk.com/
 
-  - name: 社交
+  - name: · Social
     links:
     - name: 微博
       icon: weibo red
@@ -183,7 +183,7 @@
       style: basic
       url: https://www.linkedin.com/
 
-  - name: 学习
+  - name:  · Study
     links:
     - name: Coursera
       style: basic
@@ -235,7 +235,7 @@
       style: black
       url: https://www.y-english.org/
 
-  - name: 娱乐
+  - name:  · Play
     links:
     - name: Youtube
       icon: youtube red
@@ -317,7 +317,7 @@
       url: https://douyu.com/
 
 - categories:
-  - name: 西邮校园
+  - name: xupt
     links:
     - name: 西邮官网
       style: basic
